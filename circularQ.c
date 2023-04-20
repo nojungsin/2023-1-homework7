@@ -27,6 +27,8 @@ int main(void)
 	element data;//element형 변수 data 선언
 	char command;//char형 변수 command 선언
 
+	printf("[-----[윤혜준] [2022041021] -----]");
+
 	do{
 		printf("\n-----------------------------------------------------\n");
 		printf("                     Circular Q                   \n");
