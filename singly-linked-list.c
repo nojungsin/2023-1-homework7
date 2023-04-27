@@ -34,6 +34,8 @@ int main()
 	int key;//넣고싶은 값 입력받은 int형 변수 key
 	headNode* headnode=NULL;//시작 부분이 될 headNode형 포인터 변수 headnode값 Node로 초기화
 
+	printf("[----- [윤혜준] [2022041021] -----]\n");
+	
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                     Singly Linked List                         \n");
